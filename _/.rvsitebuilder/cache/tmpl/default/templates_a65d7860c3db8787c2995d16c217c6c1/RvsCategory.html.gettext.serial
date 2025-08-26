@@ -1,0 +1,28 @@
+a:24:{i:0;s:98:"var aCate = {};
+    var aItemId = {};
+	var numAllData = 0;
+	var thumbperpage = 12;
+	var cateId = '";i:1;s:43:"';
+	var temStyleId = '0';
+	var pagerUrl = '";i:2;s:26:"';
+	var onDemandTemplate =";i:3;s:21:";
+	var urlPreview = '";i:4;s:18:"';
+	var aCurrent =";i:5;s:163:";
+	var downloadTemplateUser = false;
+	var isImport = false;
+	var isDiyTemplate = false;
+	var reuploadIcon = false;
+	var deleteIcon = false;
+	var aTemplateMissing =";i:6;s:17:";
+	var rvsDiy = "";i:7;s:29:"";
+	var rvsDeletetemplate = "";i:8;s:26:"";
+	var rvsMgrCategory = "";i:9;s:48:"";
+	var objectCateData = {};
+	var msgPreview = '";i:10;s:23:"';
+	var msgdownload = '";i:11;s:23:"';
+	var msgReupload = '";i:12;s:31:"';
+	var currentIsResponsive = "";i:13;s:28:"var searchImportTemplateId =";i:14;s:32:"var searchImportTemplateId = {};";i:15;s:32:"var downloadTemplateUser = true;";i:16;s:8:"Category";i:17;s:5:"Style";i:18;s:12:"#CategoryId#";i:19;s:9:"#Preview#";i:20;s:175:"#colorImgData#
+        											       #download#
+        											       #EditDiyTemplate#
+        											       #deleteIcon#
+        											       #reuploadIcon#";i:21;s:15:"#ImgResponsive#";i:22;s:7:"( Total";i:23;s:4:"Back";}

@@ -1,0 +1,5 @@
+cPCPAN=1.0
+NetAddr::IP=4.048=NetAddr-IP-4.048.tar.gz
+Mail::SpamAssassin=3.3.1=Mail-SpamAssassin-3.3.1.tar.gz=11.27.3_0
+Mail::SpamAssassin=3.2.4=Mail-SpamAssassin-3.002004.tar.gz
+Mail::SPF=2.007002=Mail-SPF-2.007002.tar.gz

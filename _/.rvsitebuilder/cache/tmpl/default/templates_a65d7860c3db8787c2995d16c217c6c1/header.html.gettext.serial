@@ -1,0 +1,11 @@
+a:19:{i:0;s:13:"@import url("";i:1;s:50:"/themes/default/sitebuilder/css/style.raw?charset=";i:3;s:42:"/www/themes/default/sitebuilder/css/style.";i:4;s:9:"?charset=";i:5;s:20:"");
+			@import url("";i:6;s:38:"/themes/default/sitebuilder/css/style.";i:11;s:31:"var SGL_JS_WEBROOT          = "";i:12;s:36:"";
+		var SGL_USERDATA_URL        = "";i:13;s:42:"";
+        var SGL_JS_RAW_URL          = "";i:14;s:42:"";
+        var SGL_FILE_TYPE           = "";i:15;s:36:"";
+		var phpFileType             = "";i:16;s:32:"";
+        var SGL_JS_WINHEIGHT=";i:17;s:30:";
+        var SGL_JS_WINWIDTH=";i:18;s:29:";
+        var SGL_JS_SESSID="";i:19;s:31:"";
+        var SGL_JS_CURRURL="";i:20;s:31:"";
+        var SGL_JS_INDEX = "";i:21;s:11:"sgl.ready("";i:22;s:28:"window.onload = function() {";i:23;s:30:"window.onunload = function() {";}
