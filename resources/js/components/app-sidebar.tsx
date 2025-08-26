@@ -13,7 +13,6 @@ const mainNavItems: NavItem[] = [
         href: '/dashboard',
         icon: LayoutGrid,
     },
-
     {
         title: 'Opskifter',
         href: '/recipes',
